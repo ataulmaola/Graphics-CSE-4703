@@ -1,1 +1,1 @@
-# Graphics-CSE-4703
+# Graphics-CSE-4704 (LAB Assignment)
